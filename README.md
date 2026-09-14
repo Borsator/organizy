@@ -27,4 +27,5 @@ If you encounter any bugs or issues, feel free to report them or fix them yourse
 * **Python** (Core logic and filesystem handling via `os` and `shutil` libraries)
 * **Tkinter** (Lightweight Native Graphical User Interface)
 
+NOTICED BUG: on windows 10 the checks are a little cut off
 
